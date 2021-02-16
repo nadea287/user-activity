@@ -22,6 +22,12 @@ class CreateActivitiesTable extends Migration
             $table->string('name');
             $table->float('spent_time');
             $table->timestamp('date');
+
+            $table->foreign('user_id')->references('id')->on('users');
+            $table->foreign('location_id')->references('id')->on('locations');
+            $table->foreign('role_id')->references('id')->on('roles');
+            $table->foreign('operating_system_id')->references('id')->on('operating_systems');
+
             $table->timestamps();
         });
     }

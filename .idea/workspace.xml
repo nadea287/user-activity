@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac475e11-5cdf-4940-bcd2-fa0330b44c76" name="Default Changelist" comment="" />
+    <list default="true" id="ac475e11-5cdf-4940-bcd2-fa0330b44c76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_13_111130_create_activities_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_02_13_111130_create_activities_table.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -135,6 +141,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1oOctWzCYlfbXEtthLA1qM3PJm6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -143,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-forum" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -192,6 +199,9 @@
       <workItem from="1613400486951" duration="4633000" />
       <workItem from="1613405503455" duration="75000" />
       <workItem from="1613408586157" duration="11000" />
+      <workItem from="1613409642878" duration="1036000" />
+      <workItem from="1613457672933" duration="133000" />
+      <workItem from="1613460776894" duration="1282000" />
     </task>
     <servers />
   </component>
@@ -203,10 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="311" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1613324574639" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1613408595652">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1613461705706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613408595652" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613461705706" />
     <state width="604" height="445" key="SwitcherDM" timestamp="1613393032185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -219,9 +229,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1613392273324" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1613404637842">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1613457696581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1613404637842" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1613457696581" />
   </component>
 </project>
